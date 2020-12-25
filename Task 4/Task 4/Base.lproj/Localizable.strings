@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Task 4
+
+  Created by Ilya Senchukov on 25.12.2020.
+  
+*/
+
+"check_stats" = "Check stats";
+
+"videos" = "Videos";
+
+"games" = "Games";
+
+"hearts" = "Hearts";
+
+"wins" = "Wins";

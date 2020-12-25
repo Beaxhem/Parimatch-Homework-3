@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "7Sr-D7-dIX"; */
+"7Sr-D7-dIX.text" = "Nom d'utilisateur";
+
+/* Class = "UITextField"; placeholder = "Enter username"; ObjectID = "Fcg-Fi-sgy"; */
+"Fcg-Fi-sgy.placeholder" = "Saisissez votre nom d'utilisateur";
+
+/* Class = "UILabel"; text = "Player ethusiast"; ObjectID = "HGb-SM-pii"; */
+"HGb-SM-pii.text" = "Le meilleur joueur";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HWH-Fj-ijI"; */
+"HWH-Fj-ijI.normalTitle" = "Plus d'information";
+
+/* Class = "UILabel"; text = "Big alert title"; ObjectID = "SRS-Lm-sua"; */
+"SRS-Lm-sua.text" = "Grand titre d'alerte";
+
+/* Class = "UILabel"; text = "Beyond limits"; ObjectID = "chC-Uo-Hy0"; */
+"chC-Uo-Hy0.text" = "Au-delà des limites";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque mauris, tempor et tristique a, posuere posuere nibh. Pellentesque vulputate augue sed sagittis efficitur. Mauris ac mollis augue. Aenean dapibus sit amet nisl vitae laoreet. Vivamus metus leo, ornare vitae eleifend et, lacinia nec purus."; ObjectID = "lqY-qk-30i"; */
+"lqY-qk-30i.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque mauris, tempor et tristique a, posuere posuere nibh. Pellentesque vulputate augue sed sagittis efficitur. Mauris ac mollis augue. Aenean dapibus sit amet nisl vitae laoreet. Vivamus metus leo, ornare vitae eleifend et, lacinia nec purus.";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "mcj-bN-2vN"; */
+"mcj-bN-2vN.normalTitle" = "OK";
